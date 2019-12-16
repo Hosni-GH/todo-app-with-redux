@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/todo-app-with-redux/static/css/main.60554fb6.chunk.css",
+    "main.js": "/todo-app-with-redux/static/js/main.d66774dd.chunk.js",
+    "main.js.map": "/todo-app-with-redux/static/js/main.d66774dd.chunk.js.map",
+    "runtime-main.js": "/todo-app-with-redux/static/js/runtime-main.0445e93e.js",
+    "runtime-main.js.map": "/todo-app-with-redux/static/js/runtime-main.0445e93e.js.map",
+    "static/js/2.7d05a767.chunk.js": "/todo-app-with-redux/static/js/2.7d05a767.chunk.js",
+    "static/js/2.7d05a767.chunk.js.map": "/todo-app-with-redux/static/js/2.7d05a767.chunk.js.map",
+    "index.html": "/todo-app-with-redux/index.html",
+    "precache-manifest.1b256fa7941316f5c19b23b49fcae42d.js": "/todo-app-with-redux/precache-manifest.1b256fa7941316f5c19b23b49fcae42d.js",
+    "service-worker.js": "/todo-app-with-redux/service-worker.js",
+    "static/css/main.60554fb6.chunk.css.map": "/todo-app-with-redux/static/css/main.60554fb6.chunk.css.map",
+    "static/js/2.7d05a767.chunk.js.LICENSE": "/todo-app-with-redux/static/js/2.7d05a767.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0445e93e.js",
+    "static/js/2.7d05a767.chunk.js",
+    "static/css/main.60554fb6.chunk.css",
+    "static/js/main.d66774dd.chunk.js"
+  ]
+}
